@@ -1,0 +1,1 @@
+# cvat_serverless_yolov8_onnx
